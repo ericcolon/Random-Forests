@@ -1,5 +1,5 @@
 # Random-Forests
-### Random Forest Classification/Regression in Python using sklearn
+### Random Forest Classification/Regression Application in Python using sklearn
 
 This repository contains the analysis of baseball statistics using MLB Statcast Metrics.
 
