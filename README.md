@@ -1,7 +1,7 @@
 # Random-Forests
 ### Random Forest Classification/Regression Application in Python Using scikit-learn
 
-This repository contains the analysis of baseball statistics using MLB Statcast Metrics.
+This repository contains the prediction of baseball statistics using MLB Statcast Metrics.
 
 **Goals**
 
